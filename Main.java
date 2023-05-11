@@ -2,8 +2,8 @@ class Main {
 
     public static void main(String[] args) {
    
-   	int a = Integer.paserInt(args[0]);
-    	int b = Integer.paserInt(args[1]); 
+   	int a = Integer.parseInt(args[0]);
+    	int b = Integer.parseInt(args[1]); 
     
 	SumaDosNumeros obj = new SumaDosNumeros();
 	
